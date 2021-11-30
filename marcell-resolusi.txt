@@ -1,6 +1,6 @@
 MARCELL RESOLUSI
 - Konsisten untuk belajar backend web dengan frontend mobile untuk bisa menyelesaikan skripsi
 - Mengumpulkan dana untuk investasi
-- Konsisten untuk belajar analisa teknikal dari pergerakan candle
 - Menjadi pribadi yang lebih sabar dan tidak terburu-buru untuk mendapatkan sesuatu
 - Membuat responsive web atau animated seperti web genshin,dll
+- Membuat web pembelajaran musik
