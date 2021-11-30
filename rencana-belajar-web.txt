@@ -5,8 +5,11 @@ RENCANA BELAJAR WEB
 - Belajar css dasar
 - Belajar javascript dasar
 - Belajar framework php
+  * Code Igniter
   * laravel
-- Belajar query mysql
 - Belajar ajax
 - Belajar framework javascript
- * ReactJS
+  * Angular
+  * React
+  * ReactJS
+- Belajar query mysql
