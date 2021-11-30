@@ -8,3 +8,5 @@ RENCANA BELAJAR WEB
   * laravel
 - Belajar query mysql
 - Belajar ajax
+- Belajar framework javascript
+ * ReactJS
