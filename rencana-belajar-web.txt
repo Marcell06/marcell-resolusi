@@ -5,3 +5,4 @@ RENCANA BELAJAR WEB
 - Belajar css dasar
 - Belajar javascript dasar
 - Belajar framework php
+- Belajar query mysql
